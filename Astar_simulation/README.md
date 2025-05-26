@@ -8,8 +8,6 @@ Este proyecto es una simulación del algoritmo A\* (Astar), un algoritmo de bús
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Ejemplo](#ejemplo)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Características
 
@@ -54,3 +52,7 @@ Pasos:
 
 - clic: una vez para definir la partida, una segunda vez para definir la meta
 - spacebar: aplicar el algoritmo y ver simulación
+
+## Ejemplo
+
+![Ejemplo](images/Example.jpg)
