@@ -42,11 +42,7 @@ Para instalar y ejecutar este proyecto, sigue estos pasos:
 
 ## Uso
 
-Ejecuta el siguiente comando:
-
-```bash
-python main.py
-```
+Ejecuta el comando: `python main.py`
 
 Pasos:
 
