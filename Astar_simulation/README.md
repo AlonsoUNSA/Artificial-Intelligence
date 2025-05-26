@@ -28,27 +28,27 @@ Para instalar y ejecutar este proyecto, sigue estos pasos:
    ```
 2. Crea un entorno virtual (opcional)
 
-```bash
-python -m venv venv
-source venv/bin/activate  # En Windows usa: venv\Scripts\activate
-```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # En Windows usa: venv\Scripts\activate
+   ```
 
 3. Instala dependencias
    Siendo un proyecto en python es necesario tener instalado python.
    Además instala pygame con pip:
 
-```bash
-pip install --upgrade pip
-pip install pygame
-```
+   ```bash
+   pip install --upgrade pip
+   pip install pygame
+   ```
 
 ## Uso
 
 Ejecuta el siguiente comando:
 
-```bash
-python main.py
-```
+    ```bash
+    python main.py
+    ```
 
 Pasos:
 
